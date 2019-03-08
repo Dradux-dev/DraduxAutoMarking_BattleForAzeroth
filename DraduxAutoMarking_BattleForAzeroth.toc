@@ -1,0 +1,35 @@
+## Interface: 80000
+## Title: Dradux Auto Marking - Battle for Azeroth
+## Author: Dradux
+## Version: 0.1
+## Notes: Tool to setup your wished loot spec automatically.
+## Dependencies: DraduxAutoMarking
+## OptionalDeps: ElvUI, LibStub, LibUIDropDownMenu, Ace3
+## SavedVariables: DraduxAutoMarkingBattleForAzerothDB
+
+#@no-lib-strip@
+libs\load_libs.xml
+#@end-no-lib-strip@
+
+atal-dazar.lua
+freehold.lua
+kings-rest.lua
+shrine-of-the-storm.lua
+siege-of-boralus.lua
+temple-of-sethraliss.lua
+the-motherlode.lua
+the-underrot.lua
+tol-dagor.lua
+waycrest-manor.lua
+generated/atal-dazar.lua
+generated/freehold.lua
+generated/kings-rest.lua
+generated/shrine-of-the-storm.lua
+generated/siege-of-boralus.lua
+generated/temple-of-sethraliss.lua
+generated/the-motherlode.lua
+generated/the-underrot.lua
+generated/tol-dagor.lua
+generated/waycrest-manor.lua
+specials/atal-dazar-volkaal.lua
+DraduxAutoMarking_BattleForAzeroth.lua
